@@ -10,6 +10,14 @@
 
 ![Desktop Active State](./design/desktop-active-states.jpg)
 
+> Desktop Tab 2 
+
+![Desktop Tab 2](./design/tab-2-design.jpg)
+
+> Desktop Tab 3
+
+![Desktop Tab 3](./design/tab-3-design.jpg)
+
 > Mobile
 
 ![Mobile Design](./design/mobile-design.jpg)
